@@ -1,0 +1,26 @@
+[
+  {
+    "name": "China",
+    "population": 1359821000,
+    "flagURL": "//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "capital": "Beijing",
+    "gdp": 12261, 
+    "description":"Es un Estado soberano situado en Asia Oriental. Es el país más poblado del mundo, con más de 1300 millones de habitantes, y la primera potencia económica mundial por PIB, en términos de paridad de poder adquisitivo."
+  },
+  {
+    "name": "India",
+    "population": 1205625000,
+    "flagURL": "//upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "capital": "New Delhi",
+    "gdp": 4716, 
+    "description":"Es un país soberano ubicado en el sur de Asia. Con sus más de 1240 millones de habitantes, es el segundo país del mundo por población ―después de la República Popular China (con 1370 millones) y la democracia más populosa del mundo―"
+  },
+  {
+    "name": "United States of America",
+    "population": 312247000,
+    "flagURL": "//upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "capital": "Washington, D.C.",
+    "gdp": 16244, 
+    "description":"Es un país soberano constituido en república federal constitucional compuesta por cincuenta estados y un distrito federal. La mayor parte del país se ubica en el centro de América del Norte —donde se encuentran sus cuarenta y ocho estados contiguos y Washington D. C., el distrito de la capital—, entre los océanos Pacífico y Atlántico, limita con Canadá al norte y con México al sur."
+  }
+]
